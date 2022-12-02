@@ -1,32 +1,53 @@
 ### Hi, I'm Antony 👋
 
-### I am an [acoustician](https://www.ioa.org.uk/careers/what-acoustics), aspiring developer, [music producer](https://open.spotify.com/track/4bRh73vjH8Xfk0oIGEYKqN?si=0b3be7e8ada44dde) and also run a [record label](https://sinelangrec.bandcamp.com/).
+### I am an [acoustician](https://www.ioa.org.uk/careers/what-acoustics), developer, [music producer](https://open.spotify.com/track/4bRh73vjH8Xfk0oIGEYKqN?si=0b3be7e8ada44dde) and also run a [record label](https://sinelangrec.bandcamp.com/).
 
 - 🔭 I'm currently working on some acoustics processing tools using Python
 - 🌱 I'm currently learning everything I can
 - 👯 I'm looking to collaborate on projects (both programming & music)
 - 🤔 2023 Goals: keep learning, collaborating and finish some personal projects (and tracks)
-- ⚡ Fun fact: My cat is called Phil
+- ⚡ Fun fact: My cat is called [Phil](https://www.reddit.com/r/AnimalsBeingDerps/comments/rd8wwt/when_you_get_distracted_mid_lick/)
 
-### Connect with me:
-<a href="https://medium.com/@zluvsand">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
-</a>
-<a href="[https://www.linkedin.com/in/zluvsand/](https://www.linkedin.com/in/antony-g-796657254/)">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
-</a>
+### Say hello
+<p float="right">
+<a href="https://www.linkedin.com/in/antony-g-796657254/"><img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/></a>
+<a href="mailto:antonygit@protonmail.com?"><img height = "50" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope.svg"/></a>
+<img height=50 src="https://user-images.githubusercontent.com/116839528/205315188-503daa70-efec-4bca-b633-b9f13d4692dd.png"/>
+</p>
 
-📧 [🔗](google.com)
+### Languages and things
+<p float="left">
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg"/>
+</p>
+<p float="left">
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"/> 
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
+</p>
+<p float="left">
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"/>"
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain.svg"/>
+    <img height=100 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
+</p>
 
-### Languagees
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-n-t-o-n-y&layout=compact"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+### Current Projects
+- Acoustics processing tools for baseline survey data
+- Tool to recognise noise from construction sites from audio files
+- Data processing scripts for large-scale noise impact assessments
 
-### Projects
+### Music Production
+- Co-writing with [Awe Kid](https://open.spotify.com/artist/7pBTVRY3LKuE63SsqAIuN5?si=p4ngaETkSmiEx--OeYCULg)
+- Collaborating under the name [cl_ose](https://open.spotify.com/artist/4edJBafCcaSqmDCCgwNtew?si=0XROzxwiTPyZpoFn-y6ZbA)
+- Producing under the name [cl_yde](https://open.spotify.com/artist/07bRqlNAwLSgQbZ3NtFQ7m?si=NjOI-MbUTiqgEjpHxFiXeg)
 
-### Music
+### Sine Language Records
+<p float="left">
+    <a href="https://soundcloud.com/sinelangrec"><img height=100 src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/soundcloud.svg"/></a>
+    <a href="https://open.spotify.com/playlist/5JoFVjCwkwEdSJKOODe1JB?si=445e14f082684e06"><img height=100 src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/spotify.svg"/></a>
+    <a href="https://sinelangrec.bandcamp.com/"><img height=100 src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/bandcamp.svg"/></a>
 
-### Sine Language
