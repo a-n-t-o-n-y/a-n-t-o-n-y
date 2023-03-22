@@ -4,8 +4,8 @@
 
 - 🔭 I'm currently working on some acoustics processing tools using Python
 - 🌱 I'm currently learning everything I can
-- 👯 I'm looking to collaborate on projects (both programming & music)
-- 🤔 2023 Goals: keep learning, collaborating and finish some personal projects (and tracks)
+- 👯 I'm looking to collaborate on projects
+- 🤔 2023 Goals: keep learning, collaborating and finish some personal projects 
 - ⚡ Fun fact: My cat is called [Phil](https://www.reddit.com/r/AnimalsBeingDerps/comments/rd8wwt/when_you_get_distracted_mid_lick/)
 
 ### Say hello
