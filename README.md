@@ -7,7 +7,7 @@
 
 ### Say hello
 <p float="right">
-<a href="https://www.linkedin.com/in/antony-g-796657254/"><img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://www.linkedin.com/in/antgr/"><img height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg"/></a>
 <a href="mailto:antonygit@protonmail.com?"><img height = "50" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/envelope.svg"/></a>
 <img height=50 src="https://user-images.githubusercontent.com/116839528/205315188-503daa70-efec-4bca-b633-b9f13d4692dd.png"/>
 </p>
