@@ -1,6 +1,6 @@
 ### Hi, I'm Antony 👋
 
-### I am an [acoustician](https://www.ioa.org.uk/careers/what-acoustics), developer, [music producer](https://open.spotify.com/track/4bRh73vjH8Xfk0oIGEYKqN?si=0b3be7e8ada44dde) and also run a [record label](https://sinelangrec.bandcamp.com/).
+### I am an [acoustician](https://www.ioa.org.uk/careers/what-acoustics), developer, [producer](https://open.spotify.com/track/4bRh73vjH8Xfk0oIGEYKqN?si=0b3be7e8ada44dde) and also run a [record label](https://sinelangrec.bandcamp.com/).
 
 - 🔭 currently working on some acoustics processing tools using Python
 - 👯 looking to collaborate on projects
