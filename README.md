@@ -2,11 +2,8 @@
 
 ### I am an [acoustician](https://www.ioa.org.uk/careers/what-acoustics), developer, [music producer](https://open.spotify.com/track/4bRh73vjH8Xfk0oIGEYKqN?si=0b3be7e8ada44dde) and also run a [record label](https://sinelangrec.bandcamp.com/).
 
-- 🔭 I'm currently working on some acoustics processing tools using Python
-- 🌱 I'm currently learning everything I can
-- 👯 I'm looking to collaborate on projects
-- 🤔 2023 Goals: keep learning, collaborating and finish some personal projects 
-- ⚡ Fun fact: My cat is called [Phil](https://www.reddit.com/r/AnimalsBeingDerps/comments/rd8wwt/when_you_get_distracted_mid_lick/)
+- 🔭 currently working on some acoustics processing tools using Python
+- 👯 looking to collaborate on projects
 
 ### Say hello
 <p float="right">
@@ -40,10 +37,8 @@
 - Tool to recognise noise from construction sites from audio files
 - Data processing scripts for large-scale noise impact assessments
 
-### Music Production
+### Music 
 - Co-writing with [Awe Kid](https://open.spotify.com/artist/7pBTVRY3LKuE63SsqAIuN5?si=p4ngaETkSmiEx--OeYCULg)
-- Collaborating under the name [cl_ose](https://open.spotify.com/artist/4edJBafCcaSqmDCCgwNtew?si=0XROzxwiTPyZpoFn-y6ZbA)
-- Producing under the name [cl_yde](https://open.spotify.com/artist/07bRqlNAwLSgQbZ3NtFQ7m?si=NjOI-MbUTiqgEjpHxFiXeg)
 
 ### Sine Language Records
 <p float="left">
